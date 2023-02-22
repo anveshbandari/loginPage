@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "headless-chrome-crawler": "^1.8.0",
+    "nodemon": "^2.0.20",
+    "pg": "^8.9.0",
+    "puppeteer": "^19.7.2"
+  }
+}
